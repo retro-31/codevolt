@@ -5,7 +5,7 @@ import 'fatigue_screen.dart';
 class DetectionScreen extends StatefulWidget {
   final String sessionId;
 
-  const DetectionScreen({Key? key, required this.sessionId}) : super(key: key);
+  const DetectionScreen({super.key, required this.sessionId});
 
   @override
   _DetectionScreenState createState() => _DetectionScreenState();

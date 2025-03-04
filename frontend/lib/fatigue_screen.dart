@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
 class FatigueScreen extends StatefulWidget {
+  const FatigueScreen({super.key});
+
   @override
   _FatigueScreenState createState() => _FatigueScreenState();
 }

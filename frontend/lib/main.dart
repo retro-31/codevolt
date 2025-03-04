@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'login_page.dart';
 import 'register_page.dart';
 // Import DetectionDashboard from its file (create detection_dashboard.dart accordingly)
-import 'detection_dashboard.dart';
 
 void main() {
   runApp(const MyApp());
